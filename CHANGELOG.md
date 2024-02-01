@@ -1,5 +1,17 @@
 # Changelog
 
+## [4.1.0](https://github.com/libretime/libretime/compare/4.0.0...4.1.0) (2024-02-01)
+
+
+### Features
+
+* **legacy:** add aac/opus support to dashboard player ([#2881](https://github.com/libretime/libretime/issues/2881)) ([95283ef](https://github.com/libretime/libretime/commit/95283efc1f9a63376a99184ef69b699beba45802))
+
+
+### Bug Fixes
+
+* **legacy:** avoid crash when lot of streams in configuration ([#2915](https://github.com/libretime/libretime/issues/2915)) ([12dd477](https://github.com/libretime/libretime/commit/12dd47731290bf539be7a2a81571f8ada223e9c4))
+
 ## [4.0.0](https://github.com/libretime/libretime/compare/3.2.0...4.0.0) (2024-01-07)
 
 
